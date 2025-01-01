@@ -1,17 +1,21 @@
-### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=duasosandy&show_icons=true&hide_title=true)
+<!-- GitHub Profile Views Counter and commited -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div>
+        <a href="https://github.com/sdnas">
+            <img src="https://komarev.com/ghpvc/?username=duasosandy&label=Profile%20Views&color=0e75b6&style=flat" alt="sdnas's Profile Views" />
+        </a>
+    </div>
+</div>
+
+- 👋 Hi, I'm Sandy!
+- 🌱 Currently learning Laravel and Vue
+
+<div align="center">
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=duasosandy&show_icons=true&locale=en&layout=compact" alt="duasosandy" /></p>
+    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=duasosandy&show_icons=true&locale=en" alt="duasosandy" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=duasosandy&" alt="duasosandy" /></p>
+</div>
 
 <!--
-**duasosandy/duasosandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**sdnas/sdnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
